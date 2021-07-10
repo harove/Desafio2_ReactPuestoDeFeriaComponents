@@ -1,8 +1,6 @@
 import Producto from "../producto/Producto";
-import stock from "../../data/productosSucursal1.json";
 import styles from "./productos.module.css";
 import { ProductoProps } from "../../models/models";
-
 
 interface ProductosPros {
     productos: ProductoProps[]
