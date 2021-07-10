@@ -1,0 +1,31 @@
+[
+    { "nombre": "Manzana",
+         "img_producto": "https://gourmet.expob2b.es/uploads/fotos_noticias/2017/01/14617-118036.jpg" ,
+        "categoria": "Fruta",
+         "precio": 100,
+         "stock": 10 },
+    
+    { "nombre": "Frutilla",
+         "img_producto": "https://gourmet.expob2b.es/uploads/fotos_noticias/2017/01/14617-118036.jpg" ,
+        "categoria": "Fruta",
+         "precio": 100,
+         "stock": 10 },
+    
+    { "nombre": "Palta",
+         "img_producto": "https://gourmet.expob2b.es/uploads/fotos_noticias/2017/01/14617-118036.jpg" ,
+        "categoria": "Fruta",
+         "precio": 100,
+         "stock": 10 },
+    
+    { "nombre": "Tomate",
+         "img_producto": "https://gourmet.expob2b.es/uploads/fotos_noticias/2017/01/14617-118036.jpg" ,
+        "categoria": "Verdura",
+         "precio": 350,
+         "stock": 2 },
+    
+    { "nombre": "Lechuga",
+         "img_producto": "https://gourmet.expob2b.es/uploads/fotos_noticias/2017/01/14617-118036.jpg" ,
+        "categoria": "Verdura",
+         "precio": 100,
+         "stock": 2 }
+]
